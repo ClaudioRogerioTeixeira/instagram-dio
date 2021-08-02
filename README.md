@@ -1,5 +1,3 @@
-# instagram-dio
-
-# Landing Page Intagram 🙃
+# Landing Page Instagram 🙃
 
 Repositório da aula de Flexbox, interface de login do Instagram! 
