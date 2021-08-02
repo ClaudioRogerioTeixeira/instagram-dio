@@ -2,4 +2,5 @@
 
 Repositório da aula de Flexbox, interface de login do Instagram! 
 
-Professora: #Gabriela Pinheiro
+Professora:
+# Gabriela Pinheiro
